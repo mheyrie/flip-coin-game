@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+.btn img{
+    width: 150px;
+    height: 150px;
+}
+
+.btn{
+    margin-right: 20px;
+    border: none;
+    cursor: pointer;
+    background-color: white;
+    
+}
+
+.reset-scores{
+    width: 100px;
+    height: 40px;
+}
