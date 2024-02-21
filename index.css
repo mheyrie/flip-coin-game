@@ -14,7 +14,14 @@ body{
     
 }
 
-.reset-scores{
-    width: 100px;
-    height: 40px;
+.reset-btn{
+    width: 70px;
+    height: 20px;
+    background-color: rgb(194, 182, 182);
+}
+
+.reset-btn:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
 }
